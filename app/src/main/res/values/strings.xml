@@ -6,4 +6,10 @@
     <string name="text_fragThree">Fragment Videos</string>
     <string name="text_fragFour">Fragment Audio</string>
     <string name="text_fragFive">Fragment Files</string>
+
+    // bottom nav bar
+
+    <string name="send"><b>SEND</b></string>
+    <string name="receive"><b>RECEIVE</b></string>
+    <string name="group"><b>GROUP</b></string>
 </resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/send"
+        android:id="@+id/send"
+        android:icon="@drawable/circle_up"/>
+
+<!--    <item android:title="@string/show_title"-->
+<!--        android:id="@+id/shows"-->
+<!--        android:icon="@drawable/icons8_tv_show_24"/>-->
+
+    <item android:title="@string/receive"
+        android:id="@+id/receive"
+        android:icon="@drawable/circle_down"/>
+
+    <item android:title="@string/group"
+        android:id="@+id/group"
+        android:icon="@drawable/ic_baseline_group_24"/>
+
+</menu>

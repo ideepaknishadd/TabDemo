@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dipak/AndroidStudioProjects/TabDemo/app/src/main/res/drawable/circle_down.xml" value="0.2385" />
         <entry key="..\:/Users/Dipak/AndroidStudioProjects/TabDemo/app/src/main/res/layout/activity_main.xml" value="0.21822916666666667" />
         <entry key="..\:/Users/Dipak/AndroidStudioProjects/TabDemo/app/src/main/res/layout/fragment_five.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Dipak/AndroidStudioProjects/TabDemo/app/src/main/res/menu/bottom_nav.xml" value="0.23229166666666667" />
       </map>
     </option>
   </component>
