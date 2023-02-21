@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabDemo</string>
+
+    <string name="text_fragOne">Fragment Apps</string>
+    <string name="text_fragTwo">Fragment Photos</string>
+    <string name="text_fragThree">Fragment Videos</string>
+    <string name="text_fragFour">Fragment Audio</string>
+    <string name="text_fragFive">Fragment Files</string>
+</resources>
