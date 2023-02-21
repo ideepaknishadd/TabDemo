@@ -27,6 +27,7 @@
                     android:minHeight="?actionBarSize"
                     android:padding="16dp"
                     android:text="File Sharing"
+                    android:textColor="@color/white"
                     android:textSize="25dp"
                     android:textStyle="bold" />
 
